@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @DatAlles
-- 👀 I’m interested in Programing
-- 🌱 I’m currently learning C# for Unity!!!!!
-- 📫 https://www.youtube.com/channel/UCHdTCT9VSIkWc-yBU8ssU3w
+-  Hi, I’m @DatAlles
+-  I’m interested in Programing
+-  I’m currently learning C++
+-  I have already learnt C#, Python, HTML and Delphi
+-  https://www.youtube.com/channel/UCHdTCT9VSIkWc-yBU8ssU3w
 -    https://datalles.itch.io/
 
 
